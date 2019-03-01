@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+
+body {
+    background-image: url("../img/dynamic.png");
+}
+
+
+			
+			#nav, #feature, .article, #footer {
+				background-color: #efefef;
+				margin-top: 20px;
+				padding: 10px 0px 5px 0px;}
+			#feature, .article {
+				height: 100px;}
+			li {
+				display: inline;
+				padding: 5px;}
+		
+#home-box{
+  height: 50px; 
+  width: 75px;
+  background-color: #000; 
+  color: #FB8C00; 
+  font-family: Montserrat; 
+  position: fixed;
+  bottom: 15%; 
+  right: 0px; 
+}
